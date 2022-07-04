@@ -19,7 +19,7 @@ iwr -useb https://raw.githubusercontent.com/NYRI4/Comfy-spicetify/main/install.p
 macOS and Linux -> **Bash**:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/NYRI4/Comfy-spicetify/main/install.sh | sh
+wget https://raw.githubusercontent.com/NYRI4/Comfy-spicetify/main/install.sh; sh ./install.sh
 ```
 ### 📥 Manual Installation
 ---
